@@ -26,7 +26,8 @@ print( r)
 ```
 
 ## Output:
-https://github.com/ArchanaSharikalHarinarayanan/RANK-OF-A-MATRIX.git
+<img width="1298" height="228" alt="image" src="https://github.com/user-attachments/assets/5168ae57-f963-46d2-a64f-44f21f8dd8e6" />
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
